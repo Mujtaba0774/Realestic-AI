@@ -1,10 +1,12 @@
 # Realestic AI
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge)
+
 Realestic AI is a web platform for real estate portals and agencies. Users upload property photos, and GPT-4o writes the listing: the description, room counts, amenities, photo tags and view. The platform also imports listings in bulk from CSV and enriches them with AI. It posts listings to Facebook and Instagram and manages partner agencies, team members and listing quotas. Access is sold as Stripe subscriptions.
 
-![Portal dashboard](docs/screenshots/portal-dashboard.jpg)
+![Portal dashboard](https://mujtabaasif.vercel.app/assets/projects-screenshots/realestic-ai/portal-dashboard.webp)
 
-A full illustrated walkthrough of the project is in [docs/Realestic-AI-Project-Documentation.pdf](docs/Realestic-AI-Project-Documentation.pdf).
+**Portfolio:** https://mujtabawd.vercel.app/
 
 ## Tech stack
 
